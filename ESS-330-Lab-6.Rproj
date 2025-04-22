@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: ec4ce571-0287-40c1-bf30-2b5f51f23d43
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: ESS-330-Lab-6/8
